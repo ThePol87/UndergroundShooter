@@ -98,7 +98,7 @@ Efectos de sonido descargados de bibliotecas gratuitas de internet, contará con
 
 ## 6. Diagrama de Flujo:
 
-- [IMAGEN: diagrama_flujo.png]
+<img width="1125" height="704" alt="diagrama_flujo" src="https://github.com/user-attachments/assets/8f9b0d04-c256-452d-b774-d240fa6bc1d0" />
 
 - Esquema en texto de la estructura del juego:
 1. Arranque del ejecutable-> Menú Principal (Comprueba conexión con el servidor).

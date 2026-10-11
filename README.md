@@ -54,7 +54,7 @@ Después de una gran guerra mundial, el mundo se ha destruido completamente y so
 ### Desarrollo de Personajes
 - Mercenario: Humano que ha sobrevivido a la guerra y se va adentrando en el subsuelo para poder sobrevivir, nunca ha sido un experto en armas en su vida pasada pero se las arregla para usarlas.
 
-## 4. Imagen y Diseño Visual:
+## 4. Imagen y Diseño Visual
 
 ### Aspectos Técnicos:
 - Cámara: El juego será representado mediante vista en 2D mediante perspectiva cenital "Top-Down".
@@ -75,14 +75,14 @@ Inspirado por el contraste visual y la perspectiva de "Hotline Miami" y mezclado
 
 2) Bocetos de Interfaz (Menú):
 
-  - [IMAGEN: boceto_menu.jpg] (Panel con botones de Iniciar, Ajustes, Controles y Créditos. Fondo de la estación de metro con los personajes disparándose).
+   - [IMAGEN: boceto_menu.jpg] (Panel con botones de Iniciar, Ajustes, Controles y Créditos. Fondo de la estación de metro con los personajes disparándose).
 
 3) Bocetos de Pantallas / Personajes:
 
-  - [IMAGEN: boceto_arena.jpg] (Ejemplo de la ambientación y estilo de la arena del juego).
+   - [IMAGEN: boceto_arena.jpg] (Ejemplo de la ambientación y estilo de la arena del juego).
 
 
-## 5. Sonido:
+## 5. Sonido
 
 ### Música
 * Menú Principal: Una pista de "Synthwave" lenta y atmosférica para generar tensión antes del combate.
@@ -96,7 +96,7 @@ Efectos de sonido descargados de bibliotecas gratuitas de internet, contará con
 * Movimientos o pasos del personaje.
 
 
-## 6. Diagrama de Flujo:
+## 6. Diagrama de Flujo
 
 <img width="1125" height="704" alt="diagrama_flujo" src="https://github.com/user-attachments/assets/8f9b0d04-c256-452d-b774-d240fa6bc1d0" />
 
@@ -111,7 +111,7 @@ Efectos de sonido descargados de bibliotecas gratuitas de internet, contará con
 8. Error de conexión: Si en cualquier momento se pierde la conexión -> Escena "Reconectando..." bloqueando los controles.
 
 
-## 7. Referencias:
+## 7. Referencias
 * "ZombsRoyale.io" - Referencia para el movimiento WASD fluido y control de proyectiles  en entorno web.
 * "Valorant" - Inspiración conceptual para la simulación táctica y la importancia del "crosshair placement".
 * "Hotline Miami" - Referencia para la cámara cenital estricta y el sensación de juego dinámico.

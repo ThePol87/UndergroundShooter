@@ -5,7 +5,7 @@
 - Descripción de la temática: Shooter táctico 1v1 en 2D con vista cenital. Dos jugadores se enfrentan en una arena reducida donde las paredes bloquean el movimiento y los disparos permitiendo un combate puramente basado en los reflejos, la precisión mecánica y la anticipación.
 - Integrantes del equipo de desarrollo: 
   * Pablo García-Luzón Revilla | p.garcialuzon.2024@alumnos.urjc.es | GitHub: @ThePol87
-  * Marcos Gacituaga Rodríguez | m.gacituaga.2024@alumnos.urjc.es | GitHub: @Usuario2
+  * Marcos Gacituaga Rodríguez | m.gacituaga.2024@alumnos.urjc.es | GitHub: @Marcos832-gif
   * Adriá Llorente Ibarra | correo@alumnos.urjc.es | GitHub: @Usuario3
 
 ---

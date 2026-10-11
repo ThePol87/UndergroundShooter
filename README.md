@@ -23,7 +23,7 @@
 
 ## 1. Especificaciones Básicas
 - Género: Shooter Táctico de Arena 1v1.
-- Público objetivo: Jugadores de perfil competitivo, amantes de los shooters tácticos y mecánicas de precisión. Edad recomendada: +12 años (violencia arcade abstracta).
+- Público objetivo: Jugadores de perfil competitivo, amantes de los shooters tácticos y mecánicas de precisión. Edad recomendada: +12 años (Violencia arcade abstracta).
 - Plataforma: PC (Navegador Web). Optimizado para uso intensivo de teclado para movimiento y ratón para apuntar.
 
 ## 2. Jugabilidad

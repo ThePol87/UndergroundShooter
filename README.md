@@ -16,8 +16,9 @@
 3. Narrativa
 4. Imagen y Diseño Visual
 5. Sonido
-6. Diagrama de Flujo
-7. Referencias
+6. Comunicación y Marketing
+7. Diagrama de Flujo
+8. Referencias
 
 ---
 
@@ -96,7 +97,13 @@ Efectos de sonido descargados de bibliotecas gratuitas de internet, contará con
 * Movimientos o pasos del personaje.
 
 
-## 6. Diagrama de Flujo
+## 6. Comunicación y Marketing
+Al ser un juego enfocado en la habilidad del jugador, la estrategia de marketing se basaría en la competitividad entre jugadores. 
+* Publicar el juego en páginas como itch.io o steam y ofrecerlo como una experiencia competitiva nueva y tematizada. 
+* Daríamos visibilidad al juego mediante plataformas de "streaming" como Twitch o Youtube para que la gente puediese conocer el juego con mayor detalle.
+
+
+## 7. Diagrama de Flujo
 
 <img width="1125" height="704" alt="diagrama_flujo" src="https://github.com/user-attachments/assets/8f9b0d04-c256-452d-b774-d240fa6bc1d0" />
 
@@ -111,7 +118,7 @@ Efectos de sonido descargados de bibliotecas gratuitas de internet, contará con
 8. Error de conexión: Si en cualquier momento se pierde la conexión -> Escena "Reconectando..." bloqueando los controles.
 
 
-## 7. Referencias
+## 8. Referencias
 * "ZombsRoyale.io" - Referencia para el movimiento WASD fluido y control de proyectiles  en entorno web.
 * "Valorant" - Inspiración conceptual para la simulación táctica y la importancia del "crosshair placement".
 * "Hotline Miami" - Referencia para la cámara cenital estricta y el sensación de juego dinámico.

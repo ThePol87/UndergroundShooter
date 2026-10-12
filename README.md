@@ -6,7 +6,7 @@
 - Integrantes del equipo de desarrollo: 
   * Pablo García-Luzón Revilla | p.garcialuzon.2024@alumnos.urjc.es | GitHub: @ThePol87
   * Marcos Gacituaga Rodríguez | m.gacituaga.2024@alumnos.urjc.es | GitHub: @Marcos832-gif
-  * Adrián Llorente Ibarra | a.llorentei.2024@alumnos.urjc.es | GitHub: @Usuario3
+  * Adrián Llorente Ibarra | a.llorentei.2024@alumnos.urjc.es | GitHub: @4dr1-999
 
 ---
 

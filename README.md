@@ -80,7 +80,7 @@ Inspirado por el contraste visual y la perspectiva de "Hotline Miami" y mezclado
 
 3) Bocetos de Pantallas / Personajes:
 
-   - [IMAGEN: boceto_arena.jpg] (Ejemplo de la ambientación y estilo de la arena del juego).
+   <img width="1024" height="572" alt="partida" src="https://github.com/user-attachments/assets/90097aa9-e217-469f-8de0-ac83622a8ba8" />
 
 
 ## 5. Sonido

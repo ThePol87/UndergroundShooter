@@ -6,7 +6,7 @@
 - Integrantes del equipo de desarrollo: 
   * Pablo García-Luzón Revilla | p.garcialuzon.2024@alumnos.urjc.es | GitHub: @ThePol87
   * Marcos Gacituaga Rodríguez | m.gacituaga.2024@alumnos.urjc.es | GitHub: @Marcos832-gif
-  * Adriá Llorente Ibarra | correo@alumnos.urjc.es | GitHub: @Usuario3
+  * Adrián Llorente Ibarra | a.llorentei.2024@alumnos.urjc.es | GitHub: @Usuario3
 
 ---
 
@@ -71,11 +71,11 @@ Inspirado por el contraste visual y la perspectiva de "Hotline Miami" y mezclado
 ### Recursos Visuales
 1) Logotipo del juego:
 
-   - [IMAGEN: logo.png] (Cartel con el nombre del juego estética "Metro-Underground").
+   <img width="715" height="517" alt="logo" src="https://github.com/user-attachments/assets/4d99ff15-d315-42d3-9c0e-76132e51c1b0" />
 
 2) Bocetos de Interfaz (Menú):
 
-   - [IMAGEN: boceto_menu.jpg] (Panel con botones de Iniciar, Ajustes, Controles y Créditos. Fondo de la estación de metro con los personajes disparándose).
+   <img width="892" height="627" alt="menu" src="https://github.com/user-attachments/assets/46578178-9abf-4551-b332-b32935424d5f" />
 
 3) Bocetos de Pantallas / Personajes:
 

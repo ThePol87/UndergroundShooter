@@ -99,7 +99,7 @@ Efectos de sonido descargados de bibliotecas gratuitas de internet, contará con
 
 ## 6. Comunicación y Marketing
 Al ser un juego enfocado en la habilidad del jugador, la estrategia de marketing se basaría en la competitividad entre jugadores. 
-* Publicar el juego en páginas como itch.io o steam y ofrecerlo como una experiencia competitiva nueva y tematizada. 
+* Publicar el juego en páginas como Itch.io o Steam y ofrecerlo como una experiencia competitiva nueva y tematizada. 
 * Daríamos visibilidad al juego mediante plataformas de "streaming" como Twitch o Youtube para que la gente puediese conocer el juego con mayor detalle.
 
 

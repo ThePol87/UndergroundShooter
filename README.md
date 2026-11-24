@@ -34,9 +34,9 @@ El objetivo principal es eliminar al oponente disparando con el arma designada. 
 
 ### Controles
 - Modo local:
-  - Jugador 1: W, A, S y D para moverse, Q y E para rotar el personaje y barra espaciadora para disparar.
+  - Jugador 1: WASD para moverse, Q y E para rotar el personaje y barra espaciadora para disparar.
   - Jugador 2: Flechas para moverse, ctrl y shift para rotar el personaje y - para disparar.
-- Modo online: W, A, S y D para moverse, Q y E para rotar el personaje y barra espaciadora para disparar.
+- Modo online: WASD para moverse, Q y E para rotar el personaje y barra espaciadora para disparar.
 
 ### Mecánicas
 - Combate Simétrico de Arma Única: Los dos jugadores tienen el mismo arma en todo momento, aparte de granadas de fragmentación. No hay armas mejores ni ventajas externas.

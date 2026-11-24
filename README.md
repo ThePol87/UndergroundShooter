@@ -72,7 +72,8 @@ Inspirado por el contraste visual y la perspectiva de "Hotline Miami" y mezclado
 ### Recursos Visuales
 1) Logotipo del juego:
 
-   <img width="715" height="517" alt="logo" src="https://github.com/user-attachments/assets/4d99ff15-d315-42d3-9c0e-76132e51c1b0" />
+<img width="2400" height="1792" alt="logo" src="https://github.com/user-attachments/assets/1927ba6f-5c75-44fd-a30e-d56cd9164cf7" />
+
 
 2) Bocetos de Interfaz (Menú):
 

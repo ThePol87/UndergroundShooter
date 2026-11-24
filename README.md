@@ -33,9 +33,10 @@
 El objetivo principal es eliminar al oponente disparando con el arma designada. El juego se estructura en un enfrentamiento directo (1v1) sin interrupciones, donde ganará el jugador con mejores reflejos y capacidad de predicción de movimientos.
 
 ### Controles
-- Movimiento: Teclas W, A, S, D para desplazamiento.
-- Apuntado: Rotación libre de 360 grados siguiendo la posición del cursor del ratón.
-- Disparo: Clic izquierdo del ratón.
+- Modo local:
+  - Jugador 1: W, A, S y D para moverse, Q y E para rotar el personaje y barra espaciadora para disparar.
+  - Jugador 2: Flechas para moverse, ctrl y shift para rotar el personaje y - para disparar.
+- Modo online: W, A, S y D para moverse, Q y E para rotar el personaje y barra espaciadora para disparar.
 
 ### Mecánicas
 - Combate Simétrico de Arma Única: Los dos jugadores tienen el mismo arma en todo momento, aparte de granadas de fragmentación. No hay armas mejores ni ventajas externas.

@@ -105,8 +105,7 @@ Al ser un juego enfocado en la habilidad del jugador, la estrategia de marketing
 
 ## 7. Diagrama de Flujo
 
-<img width="1125" height="704" alt="diagrama_flujo" src="<img width="2608" height="1632" alt="diagrama" src="https://github.com/user-attachments/assets/41a2b864-d45a-41ec-84ed-3b19a73178d0" />
-" />
+<img width="2608" height="1632" alt="diagrama" src="https://github.com/user-attachments/assets/41a2b864-d45a-41ec-84ed-3b19a73178d0" />
 
 - Esquema en texto de la estructura del juego:
 1. Arranque del ejecutable-> Menú Principal (Comprueba conexión con el servidor).

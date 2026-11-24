@@ -75,15 +75,16 @@ Inspirado por el contraste visual y la perspectiva de "Hotline Miami" y mezclado
 
 <img width="2400" height="1792" alt="logo" src="https://github.com/user-attachments/assets/1927ba6f-5c75-44fd-a30e-d56cd9164cf7" />
 
+2) Menús e nterfaces:
 
-2) Bocetos de Interfaz (Menú):
+<img width="1093" height="697" alt="menuInicio" src="https://github.com/user-attachments/assets/544138a5-3e24-45d7-9bce-d7f7c1ef75f7" />
+<img width="1100" height="698" alt="controles" src="https://github.com/user-attachments/assets/dd815f79-a47e-4728-9ea9-d6fe9acf7d4a" />
+<img width="1094" height="696" alt="creditos" src="https://github.com/user-attachments/assets/2e01bf03-bfff-4d5d-a7d2-9cc41d709455" />
+<img width="1094" height="695" alt="victoria" src="https://github.com/user-attachments/assets/3390597a-7f83-492e-9876-dbdcfe848c85" />
 
-   <img width="892" height="627" alt="menu" src="https://github.com/user-attachments/assets/46578178-9abf-4551-b332-b32935424d5f" />
+3) Escenario y personajes:
 
-3) Bocetos de Pantallas / Personajes:
-
-   <img width="1024" height="572" alt="partida" src="https://github.com/user-attachments/assets/90097aa9-e217-469f-8de0-ac83622a8ba8" />
-
+<img width="1094" height="694" alt="escenario" src="https://github.com/user-attachments/assets/5ca49e6c-ba0d-442a-8cc6-8a39086d24ec" />
 
 ## 5. Sonido
 
